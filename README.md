@@ -1,2 +1,3 @@
-# MediaResources
-Media Resources
+# Media Resources
+
+Here are some media resources stored for third-party use.
