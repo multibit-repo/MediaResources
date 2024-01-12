@@ -1,0 +1,9 @@
+{
+  "name": "Multibit",
+  "symbol": "MUBI",
+  "description": "MultiBit cross-chain bridge incentive token",
+  "image": "https://raw.githubusercontent.com/multibit-repo/MediaResources/661ee96f7ae41d48344873e43f85096f0de18d46/MUBI.svg",
+  "twitter": "https://twitter.com/Multibit_Bridge",
+  "coingeckoId": "multibit",
+  "website": "https://multibit.exchange/"
+}
